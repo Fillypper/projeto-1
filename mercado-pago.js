@@ -1,3 +1,4 @@
-const m = 'mercado pago'
+const m = 'ta q pariu'
+const d = 'mercado pago'
 
-console.log(m)
+console.log(m, d)
