@@ -80,3 +80,5 @@ rm -rf [nome da pasta] = deleta uma pasta mesmo que tenha coisas dentro
 git pull origin main - para receber as atualizaçẽs do repositório
 
 git checkout -b [nome do branch] = cria o branch e troca para esse branch
+
+git clone [endereço ssh] [novo nome opcional]
