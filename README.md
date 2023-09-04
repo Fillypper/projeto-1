@@ -4,6 +4,7 @@ Aprendendo github
 # Comandos terminal/git
 
 ls = para ver arquivos no diretório
+
 cd [nome da pasta] = para entrar em pastas
 touch = cria arquivos, tem que ser levado em conta o espaçamento em - ou _ .tipo do arquivo
 rm [nome]= digita-se rm [nome do arquivo] para deletar ele do diretório
